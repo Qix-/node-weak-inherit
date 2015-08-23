@@ -1,7 +1,7 @@
 {
   "name": "weak-inherit",
   "description": "Weakly inherit a class - no prototypes involved",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Qix (http://github.com/qix-)",
   "keywords": [
     "weak",
